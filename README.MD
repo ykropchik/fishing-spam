@@ -2,9 +2,13 @@
 
 ## 1. Попытка отправить письмо с url canary token
 
+![URL canary token](https://github.com/ykropchik/fishing-spam/blob/master/screens/url_canary_token.png?raw=true)
 
 ## 2. Word с canary token
 
+![word canary token](https://github.com/ykropchik/fishing-spam/blob/master/screens/word_canary_token.png?raw=true)
+
+![word canary token](https://github.com/ykropchik/fishing-spam/blob/master/screens/word_canary_token_2.png?raw=true)
 
 # Gophish
 
@@ -81,3 +85,36 @@
 </table>
 
 ## 2. Настройка GoPhish
+
+### 1. Настройка template
+![gophish email template](https://github.com/ykropchik/fishing-spam/blob/master/screens/gophish_email-template(1).png?raw=true)
+
+![gophish email template2](https://github.com/ykropchik/fishing-spam/blob/master/screens/gophish_email-template(2).png?raw=true)
+
+### 2. Настройка landing page
+
+![gophish email template2](https://github.com/ykropchik/fishing-spam/blob/master/screens/gophish_landing-page(1).png?raw=true)
+
+![gophish email template2](https://github.com/ykropchik/fishing-spam/blob/master/screens/gophish_laqnding-page(2).png?raw=true)
+
+### 2. Настройка пользователей для рассылки
+
+![gophish email template2](https://github.com/ykropchik/fishing-spam/blob/master/screens/gophish_group.png?raw=true)
+
+### 3. Настройка sending profile
+
+![gophish email template2](https://github.com/ykropchik/fishing-spam/blob/master/screens/gophish_sending-profile.png?raw=true)
+
+## 3. Рассылка
+
+### 1. Проведение рассылки
+
+![gophish email template2](https://github.com/ykropchik/fishing-spam/blob/master/screens/first_mail.jpeg?raw=true)
+
+![gophish email template2](https://github.com/ykropchik/fishing-spam/blob/master/screens/second_mail.jpeg?raw=true)
+
+### 2. Результаты
+
+![gophish email template2](https://github.com/ykropchik/fishing-spam/blob/master/screens/gophish_results(1).png?raw=true)
+
+![gophish email template2](https://github.com/ykropchik/fishing-spam/blob/master/screens/gophish_results(2).png?raw=true)
